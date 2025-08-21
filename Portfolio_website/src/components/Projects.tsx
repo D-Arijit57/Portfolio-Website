@@ -7,7 +7,7 @@ const Projects = () => {
       title: 'ShopEZ - Ecommerce Platform',
       description: 'Full-stack e-commerce solution with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.',
       image: 'https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800',
-      tech: ['React', 'Node.js', 'MongoDB'],
+      tech: ['React.js', 'Node.js','Express.js', 'MongoDB'],
       githubUrl: 'https://github.com/D-Arijit57/ShopEZ-E-commerce-Application',
       icon: <ShoppingCart size={20} />
     },
